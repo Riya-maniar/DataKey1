@@ -1,0 +1,1 @@
+from .Riya_key import safe_key
