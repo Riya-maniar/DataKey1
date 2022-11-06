@@ -1,2 +1,3 @@
-Hello
-Key Value
+To install:
+
+pip install RiyaKey
